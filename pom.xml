@@ -17,9 +17,8 @@
     <version>0.0.1</version>
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic</description>
-
     <properties>
-        <java.version>11</java.version>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/micheljr/sfg-pet-clinic.git</developerConnection>
